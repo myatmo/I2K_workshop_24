@@ -1,0 +1,7 @@
+# large image files and results
+data/
+json_files/
+trained_models/
+
+# others
+.DS_Store
